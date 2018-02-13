@@ -10,7 +10,7 @@ public class Main {
   }
 
   public void greet() {
-    System.out.println("Annie");
+    System.out.println("Greetings!");
   }
 
   public void future() {
