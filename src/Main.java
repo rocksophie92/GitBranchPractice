@@ -9,8 +9,8 @@ public class Main {
     System.out.println(teamName);
   }
 
-  public void future() {
-    System.out.println("Cancer");
+  public void future(String horoscope) {
+    System.out.println(horoscope);
   }
 
   public void cheer(String teamName) {
