@@ -1,7 +1,8 @@
 public class Main {
 
-  public void count(int age) {
-    System.out.println("I am " + age + " years old.");
+  public void count(int age, String countless) {
+    countless = "Counting the countless";
+    System.out.println(countless + "I am " + age + " years old.");
   }
 
   public void cheer() {
