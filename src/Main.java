@@ -1,7 +1,7 @@
 public class Main {
 
   public void count() {
-    int age = 26;
+    int age = 24;
     System.out.println("I am " + age + " years old.");
   }
 
