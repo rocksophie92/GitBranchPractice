@@ -15,6 +15,7 @@ public class Main {
 
   public void future() {
     System.out.println("Cancer");
+    System.out.println("Taurus");
   }
 
   public void cheer(String teamName) {
