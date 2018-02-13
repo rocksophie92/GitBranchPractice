@@ -4,22 +4,13 @@ public class Main {
     System.out.println("I am " + age + " years old.");
   }
 
-  public void cheer() {
-    String teamName = "Epidote";
-    System.out.println(teamName);
-  }
-
-  public void greet() {
-    System.out.println("Greetings!");
-  }
-
   public void future() {
     System.out.println("Cancer");
   }
 
   public void cheer(String teamName) {
     String exclamationMark = "!";
-    System.out.println(teamName + exclamationMark);
+    System.out.println("Greetings for the " + teamName + exclamationMark);
   }
 
   public void greet(String name) {
