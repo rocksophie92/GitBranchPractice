@@ -16,5 +16,10 @@ public class Main {
 
   public void greet() {
     System.out.println("Annie");
-    }
+  }
+
+  public void timeOfBirth() {
+    System.out.println("09:05");
+  }
+
 }
