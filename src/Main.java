@@ -17,10 +17,6 @@ public class Main {
     System.out.println("Taurus");
   }
 
-  public void greet(String name) {
-    System.out.println(name);
-  }
-
   public void timeOfBirth(String time) {
     System.out.println(time);
   }
