@@ -14,7 +14,11 @@ public class Main {
     System.out.println(teamName);
   }
 
-  public void greet() {
-    System.out.println("Annie");
-    }
+  public void greet(String name) {
+    System.out.println(name);
+  }
+
+  public void timeOfBirth(String time) {
+    System.out.println(time);
+  }
 }
