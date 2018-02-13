@@ -11,7 +11,8 @@ public class Main {
 
   public void cheer() {
     String teamName = "Epidote";
-    System.out.println(teamName);
+    String exclamationMark = "!";
+    System.out.println(teamName + exclamationMark);
   }
 
   public void greet(String name) {
