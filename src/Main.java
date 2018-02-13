@@ -26,7 +26,7 @@ public class Main {
     System.out.println(name);
   }
 
-  public void timeOfBirth(String time) {
-    System.out.println(time);
+  public void timeOfBirth(int hour, int minute) {
+    System.out.println(hour + " hr " + minute + " min ");
   }
 }
