@@ -29,4 +29,8 @@ public class Main {
   public void timeOfBirth(String time) {
     System.out.println(time);
   }
+
+  public void printTwoParams(String first, String second) {
+    System.out.println((first + second));
+  }
 }
