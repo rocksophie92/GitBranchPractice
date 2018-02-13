@@ -4,12 +4,7 @@ public class Main {
     countless = "Counting the countless";
     System.out.println(countless + "I am " + age + " years old.");
   }
-
-  public void cheer() {
-    String teamName = "Epidote";
-    System.out.println(teamName);
-  }
-
+  
   public void future() {
     System.out.println("Cancer");
     System.out.println("Taurus");
@@ -17,7 +12,7 @@ public class Main {
 
   public void cheer(String teamName) {
     String exclamationMark = "!";
-    System.out.println(teamName + exclamationMark);
+    System.out.println("Greetings for the " + teamName + exclamationMark);
   }
 
   public void greet(String name, String nickname) {
