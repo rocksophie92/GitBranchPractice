@@ -6,7 +6,7 @@ public class Main {
   }
 
   public void future() {
-    System.out.println("Taurus");
+    System.out.println("Cancer");
   }
 
   public void cheer() {
