@@ -18,7 +18,7 @@ public class Main {
     System.out.println(name);
   }
 
-  public void timeOfBirth() {
-    System.out.println("09:05");
+  public void timeOfBirth(String time) {
+    System.out.println(time);
   }
 }
