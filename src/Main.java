@@ -4,9 +4,8 @@ public class Main {
     System.out.println("I am " + age + " years old.");
   }
 
-  public void cheer() {
-    String teamName = "Epidote";
-    System.out.println(teamName);
+  public void cheer(String parameter) {
+    System.out.println("Cheer for the" + parameter);
   }
 
   public void greet() {
@@ -16,11 +15,6 @@ public class Main {
   public void future() {
     System.out.println("Cancer");
     System.out.println("Taurus");
-  }
-
-  public void cheer(String teamName) {
-    String exclamationMark = "!";
-    System.out.println(teamName + exclamationMark);
   }
 
   public void greet(String name) {
