@@ -9,12 +9,9 @@ public class Main {
     System.out.println(teamName);
   }
 
-  public void greet() {
-    System.out.println("Greetings!");
-  }
-
   public void future() {
     System.out.println("Cancer");
+    System.out.println("Taurus");
   }
 
   public void cheer(String teamName) {
@@ -22,12 +19,12 @@ public class Main {
     System.out.println(teamName + exclamationMark);
   }
 
-  public void greet(String name) {
-    System.out.println(name);
+  public void greet(String name, String nickname) {
+    System.out.println(name + " aka " + nickname);
   }
 
-  public void timeOfBirth(String time) {
-    System.out.println(time);
+  public void timeOfBirth(int hour, int minute) {
+    System.out.println(hour + " hr " + minute + " min ");
   }
 
   public void printTwoParams(String first, String second) {
