@@ -5,18 +5,12 @@ public class Main {
     System.out.println(countless + "I am " + age + " years old.");
   }
 
-  public void cheer() {
-    String teamName = "Epidote";
-    System.out.println(teamName);
+  public void cheer(String parameter) {
+    System.out.println("Cheer for the" + parameter);
   }
 
   public void future(String horoscope) {
     System.out.println(horoscope);
-  }
-
-  public void cheer(String teamName) {
-    String exclamationMark = "!";
-    System.out.println("Greetings for the " + teamName + exclamationMark);
   }
 
   public void greet(String name, String nickname) {
