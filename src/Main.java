@@ -4,10 +4,14 @@ public class Main {
     countless = "Counting the countless";
     System.out.println(countless + "I am " + age + " years old.");
   }
-  
-  public void future() {
-    System.out.println("Cancer");
-    System.out.println("Taurus");
+
+  public void cheer() {
+    String teamName = "Epidote";
+    System.out.println(teamName);
+  }
+
+  public void future(String horoscope) {
+    System.out.println(horoscope);
   }
 
   public void cheer(String teamName) {
