@@ -9,8 +9,7 @@ public class Main {
     System.out.println("Cancer");
   }
 
-  public void cheer() {
-    String teamName = "Epidote";
+  public void cheer(String teamName) {
     String exclamationMark = "!";
     System.out.println(teamName + exclamationMark);
   }
